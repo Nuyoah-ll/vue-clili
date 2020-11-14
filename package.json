@@ -1,0 +1,31 @@
+{
+  "name": "vue-clili",
+  "version": "1.0.0",
+  "description": "an individual vue cli",
+  "main": "index.js",
+  "private": false,
+  "bin": {
+    "li": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "li",
+    "vue",
+    "cli"
+  ],
+  "author": "lili",
+  "license": "MIT",
+  "homepage": "https://github.com/Nuyoah-ll?tab=repositories",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nuyoah-ll?tab=repositories"
+  },
+  "dependencies": {
+    "commander": "^6.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5",
+    "open": "^7.3.0"
+  }
+}
